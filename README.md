@@ -1,2 +1,16 @@
 # 22-23-Silage-Fungicide-Efficacy
-Data and code for 22-23 Silage Fungicide Efficacy Project
+
+# Author information
+Name: Peyton Phillips  
+ORCID:  
+Institution: Michigan State University  
+Email: phil10172msu.edu
+
+# Publication Information
+
+# Contents
+### Data Files:  
+Fung_Eff_Combined_Data.xlsx 
+
+### R Markdown files: 
+
